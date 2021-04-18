@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>training &#8211; Sport Shop</title>
+	<atom:link href="https://https://marknrecaj.github.io/SportShop/product-tag/training/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://marknrecaj.github.io/SportShop</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 12 Apr 2020 18:10:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Coordination Ladder</title>
+		<link>https://https://marknrecaj.github.io/SportShop/product/coordination-ladder/</link>
+					<comments>https://https://marknrecaj.github.io/SportShop/product/coordination-ladder/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2020 18:10:22 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/sport-shop/?post_type=product&#038;p=313</guid>
+
+					<description><![CDATA[Coordination Ladder Coordination Ladder Ideal for running, sprinting and coordination training for improved work of the legs 12 non-breakable plastic rungs, connected to hard-wearing straps Variable distance between the rungs incl. transport bag Length approx. 6 m, width 0.5 m Color: SKU: 724105]]></description>
+										<content:encoded><![CDATA[<h3>Coordination Ladder</h3>
+<p>Coordination Ladder</p>
+<p>Ideal for running, sprinting and coordination training for improved work of the legs<br />
+12 non-breakable plastic rungs, connected to hard-wearing straps<br />
+Variable distance between the rungs<br />
+incl. transport bag<br />
+Length approx. 6 m, width 0.5 m</p>
+<p>Color:<br />
+SKU: <span class="sel_sku">724105</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://marknrecaj.github.io/SportShop/product/coordination-ladder/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
